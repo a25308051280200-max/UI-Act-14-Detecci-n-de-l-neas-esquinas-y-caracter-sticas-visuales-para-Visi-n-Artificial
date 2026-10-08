@@ -1,0 +1,1 @@
+# UI-Act-14-Detecci-n-de-l-neas-esquinas-y-caracter-sticas-visuales-para-Visi-n-Artificial
